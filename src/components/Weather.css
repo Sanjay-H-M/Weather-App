@@ -1,0 +1,28 @@
+
+@media (max-width: 500px) {
+    .weather {
+        padding: 20px;
+    }
+
+    .temperature {
+        font-size: 32px;
+    }
+
+    .location {
+        font-size: 20px;
+    }
+
+    .weather-data {
+        flex-direction: column;
+        gap: 20px;
+        align-items: center;
+    }
+
+    .weather-data .col {
+        font-size: 16px;
+    }
+
+    .weather-data .col span {
+        font-size: 12px;
+    }
+}
