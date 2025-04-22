@@ -48,8 +48,9 @@ This is a simple React weather application that allows users to search for weath
     yarn dev
     ```
     This will start the application, usually at `http://localhost:5173`.
-```
+
 ## Project Structure
+```
 react-weather-app/
 ├── assets/
 │   ├── clear.png
