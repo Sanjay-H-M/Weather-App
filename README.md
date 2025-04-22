@@ -52,28 +52,51 @@ This is a simple React weather application that allows users to search for weath
 ## Project Structure
 
 react-weather-app/
+
 ├── assets/
+
 │   ├── clear.png
+
 │   ├── cloud.png
+
 │   ├── drizzle.png
+
 │   ├── humidity.png
+
 │   ├── rain.png
+
 │   ├── search.png
+
 │   ├── snow.png
+
 │   └── wind.png
+
 ├── src/
+
 │   ├── components/
+
 │   │   └── Weather.jsx         # Main weather component
+
 │   ├── App.jsx                 # Main application component
+
 │   ├── main.jsx
+
 │   ├── Weather.css             # Styles for the Weather component
+
 │   └── ...
+
 ├── .env.local                # Environment variables
+
 ├── .gitignore
+
 ├── README.md                 # This file
+
 ├── package.json
+
 ├── package-lock.json
+
 ├── vite.config.js            # Vite configuration
+
 └── ...
 
 
