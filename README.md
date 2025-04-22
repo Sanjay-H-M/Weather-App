@@ -52,7 +52,6 @@ This is a simple React weather application that allows users to search for weath
 ## Project Structure
 
 react-weather-app/
-
 ├── assets/
 
 │   ├── clear.png
